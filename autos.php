@@ -40,7 +40,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Swati Srivastava</title>
+<title>Swati Srivastava Automobile Tracker</title>
 
 </head>
 <body>
