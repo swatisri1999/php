@@ -37,7 +37,6 @@
 	}
 
 ?>
-<!DOCTYPE html>
 <html>
 <head>
 <title>Swati Srivastava Automobile Tracker</title>
