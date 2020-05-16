@@ -1,5 +1,3 @@
-
-<!DOCTYPE html>
 <html>
 <head>
 <title>Swati Srivastava - Autos Database</title>
