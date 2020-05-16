@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Swati Srivastava - Autos Database</title>
+<title>Swati Srivastava</title>
 </head>
 <body>
 <div class="container">
