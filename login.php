@@ -40,7 +40,7 @@ else{
 ?>
 <html>
 <head>
-<title>Swati Srivastava's Login Page</title>
+<title>Swati Srivastava</title>
 </head>
 <body>
 <h1>Please Log In</h1>
