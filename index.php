@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Swati Srivastava</title>
+<title>Swati Srivastava - Autos Database</title>
 </head>
 <body>
 <div class="container">
