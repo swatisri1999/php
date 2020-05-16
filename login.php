@@ -38,7 +38,6 @@ else{
 		}
 	}
 ?>
-<!DOCTYPE html>
 <html>
 <head>
 <title>Swati Srivastava's Login Page</title>
