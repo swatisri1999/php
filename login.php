@@ -41,7 +41,7 @@ else{
 <!DOCTYPE html>
 <html>
 <head>
-<title>Swati Srivastava</title>
+<title>Swati Srivastava's Login Page</title>
 </head>
 <body>
 <h1>Please Log In</h1>
